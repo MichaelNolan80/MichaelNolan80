@@ -84,7 +84,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 </div>
 
-### Certifications that are commeted to do  - 
+### Certifications that are commited to do  - 
 
 <div>
  <img src="https://img.shields.io/badge/Certified_Ethical_Hacker_(CEH)-5A5A5A?&style=for-the-badge&logo=hackerrank&logoColor=white" />
