@@ -17,7 +17,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Intro into hacking         | <a href="https://google.com">How to become a master hacker book</a>|
+| Intro into hacking         | <a href="https://github.com/MichaelNolan80/Getting-Started/tree/main">How to become a master hacker book</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Wire shark labs</a>|
 | Nwtrworking Basics      |  <a href="https://google.com">GNS3 Lab</a>|
 | -Incident Response Planning and Execution-      | -SOC Automation Lab-|
@@ -94,5 +94,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/MichaelNolan80/Getting-Started/tree/main">How to become a master hacker book</a>
 - SOC Automation Project
