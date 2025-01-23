@@ -1,4 +1,4 @@
- ( THIS IS A WORKING PROGERESS)
+hical hacking ( THIS IS A WORKING PROGERESS)
 
 # Hello, I'm Michael
 <a href="https://www.linkedin.com/in/michael-john-nolan-"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -17,7 +17,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Intro into hacking         | <a href="https://github.com/MichaelNolan80/Getting-Started/tree/main">How to become a master hacker book</a>|
+| Intro into ethical hacking        | <a href="https://github.com/MichaelNolan80/Getting-Started/tree/main">How to become a master hacker book</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Wire shark labs</a>|
 | Nwtrworking Basics      |  <a href="https://google.com">GNS3 Lab</a>|
 | -Incident Response Planning and Execution-      | -SOC Automation Lab-|
