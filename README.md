@@ -5,7 +5,7 @@ hical hacking ( THIS IS A WORKING PROGERESS)
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am an Assistent Network Engineer that specalises in hardware configuration for Cabinet deployment. 
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
