@@ -20,9 +20,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Intro into ethical hacking        | <a href="https://github.com/MichaelNolan80/Getting-Started/tree/main">Getting Started becoming a Master Hacker book</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Wire shark labs</a>|
 | Nwtrworking Basics      |  <a href="https://google.com">GNS3 Lab</a>|
-| -Incident Response Planning and Execution-      | -SOC Automation Lab-|
-| -Case Management with TheHive    -              |- SOC Automation Lab-|
-| -Scripting and Automation for Threat Mitigation- |- SOC Automation Lab-|
+| --      | --|
+| -    -              |- -|
+| -- |- -|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
