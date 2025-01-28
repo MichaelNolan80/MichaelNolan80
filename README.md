@@ -1,4 +1,4 @@
-hical hacking ( THIS IS A WORKING PROGERESS)
+Ethical hacking ( THIS IS A WORKING PROGERESS)
 
 # Hello, I'm Michael
 <a href="https://www.linkedin.com/in/michael-john-nolan-"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
