@@ -23,7 +23,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Networking Basics      |  <a href="https://google.com">GNS3 Lab</a>|
 | -Hack the Box-      | -Basic-|
 | -Entry SOC VM Project-              |-will use this resorce-  https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-intro-|
-| -- |- -|
+| -OSINT TRAINING- |-Learnt Skills -|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
