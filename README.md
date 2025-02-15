@@ -100,9 +100,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
 
  <img src="https://img.shields.io/badge/Try_Hack_Me-009CDE?&style=for-the-badge&logo=tryhackme&logoColor=white" alt="Try Hack Me Badge" />
-![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4217557)
 
- [View My TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4217557)
+
+<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4217557" />
 </div>
 
 ## Projects
