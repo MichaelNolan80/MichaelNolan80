@@ -99,7 +99,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 <div>
 
- <img src="https://img.shields.io/badge/CompTIA_PenTest%2B-009CDE?&style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA PenTest+ Badge">
+ <img src="img src="https://img.shields.io/badge/Try_Hack_Me-009CDE?&style=for-the-badge&logo=tryhackme&logoColor=white" alt="Try Hack Me Badge">
  
 </div>
 
