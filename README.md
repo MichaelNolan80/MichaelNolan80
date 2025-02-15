@@ -53,6 +53,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Certifications I have - 
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/NCFE_Level_2_Principles_of_Cyber_Security-005F6A?&style=for-the-badge&logo=graduation-cap&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_Cybersecurity-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
@@ -81,16 +82,24 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Certifications that are in progress  - 
 
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+ <img src="https://img.shields.io/badge/Certified_Ethical_Hacker_(CEH)-5A5A5A?&style=for-the-badge&logo=hackerrank&logoColor=white" />
 
 </div>
 
 ### Certifications that are commited to do  - 
 
 <div>
- <img src="https://img.shields.io/badge/Certified_Ethical_Hacker_(CEH)-5A5A5A?&style=for-the-badge&logo=hackerrank&logoColor=white" />
+
  <img src="https://img.shields.io/badge/CompTIA_PenTest%2B-009CDE?&style=for-the-badge&logo=comptia&logoColor=white" />
  <img src="https://img.shields.io/badge/CompTIA_CySA%2B-009CDE?&style=for-the-badge&logo=comptia&logoColor=white" />
+ 
+</div>
+
+### Other learning  - 
+
+<div>
+
+ <img src="https://img.shields.io/badge/CompTIA_PenTest%2B-009CDE?&style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA PenTest+ Badge">
  
 </div>
 
