@@ -103,7 +103,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
  <img src="https://img.shields.io/badge/Try_Hack_Me-009CDE?&style=for-the-badge&logo=tryhackme&logoColor=white" alt="Try Hack Me Badge" />
 
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/MIchaelNolan.png" alt="Your Image Badge" />
 </div>
 
 ## Projects
