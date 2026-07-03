@@ -54,6 +54,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Certifications I have - 
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
+<img src="https://img.shields.io/badge/Certified_Ethical_Hacker_(CEH)-5A5A5A?&style=for-the-badge&logo=hackerrank&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/NCFE_Level_2_Principles_of_Cyber_Security-005F6A?&style=for-the-badge&logo=graduation-cap&logoColor=white" />
@@ -83,7 +84,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Certifications that are in progress  - 
 
 <div>
- <img src="https://img.shields.io/badge/Certified_Ethical_Hacker_(CEH)-5A5A5A?&style=for-the-badge&logo=hackerrank&logoColor=white" />
+ <img src="https://img.shields.io/badge/Certified_Ethical_Hacker_Mastery(CEH)-5A5A5A?&style=for-the-badge&logo=hackerrank&logoColor=white" />
+ <img src="https://img.shields.io/badge/TryHackMe-SAL1-5A5A5A?&style=for-the-badge&logo=TryHackMe&logoColor=red" />
+ <img src="https://img.shields.io/badge/Wireshark_WCA-5A5A5A?&style=for-the-badge&logo=Wireshark&logoColor=blue" />
 
 </div>
 
