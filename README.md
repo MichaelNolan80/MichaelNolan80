@@ -1,58 +1,59 @@
-Ethical hacking ( THIS IS A WORKING PROGERESS)
+<h1 align="center">Hi, I'm Michael 👋</h1>
+<p align="center">Network Engineer transitioning into Cybersecurity | Aiming for a Purple Team role</p>
 
-# Hello, I'm Michael
+<p align="center">
 <a href="https://www.linkedin.com/in/michael-john-nolan-"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
+<p align="center">
+<a href="https://tryhackme.com/p/MIchaelNolan"><img src="https://tryhackme-badges.s3.amazonaws.com/MIchaelNolan.png" alt="TryHackMe Badge" /></a>
+</p>
 
-[Brief Introduction - Remove this afterwards]
+---
 
-I am an Assistent Network Engineer that specalises in hardware configuration for Cabinet deployment. 
+## About Me
 
-## Objective
-[Provide Objective - Remove this afterwards]]
+I'm an Assistant Network Engineer specialising in hardware configuration for cabinet deployment, with hands-on experience building networks from scratch (RADIUS server setup, segmentation, traffic monitoring). That networking foundation has pulled me toward cybersecurity — I'm now building detection and analysis skills with Wireshark, Suricata, Zeek, and Sentinel/Splunk, working toward a Security Operations Center (SOC) Tier 1 Analyst role.
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Currently documenting a full home network security build — segmentation, monitoring, and detection — as my next hands-on project.
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+## 🔭 Currently Building
+- **[Home Network Security Project](#)** — designing and documenting a segmented home lab with traffic monitoring and detection. *(Coming soon)*
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-|Setup network form scratch with Radius Server. | - <a href="https://github.com/MichaelNolan80/BasicNetworkSetup">Network Setup</a>|
-| Intro into ethical hacking        | <a href="https://github.com/MichaelNolan80/Getting-Started/tree/main">Getting Started becoming a Master Hacker book</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Wire shark labs</a>|
-| Networking Basics      |  <a href="https://google.com">GNS3 Lab</a>|
-| -Hack the Box-      | -Basic-|
-| -Entry SOC VM Project-              |-will use this resource-  https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-intro-|
-| -OSINT TRAINING- |-Learnt Skills -|
+## Skills & Projects
+
+| Skill | Project |
+|---|---|
+| Building a network from scratch, incl. RADIUS server setup | [Network Setup](https://github.com/MichaelNolan80/BasicNetworkSetup) |
+| Intro to ethical hacking fundamentals | [Getting Started Becoming a Master Hacker (notes)](https://github.com/MichaelNolan80/Getting-Started) |
+
+> A few rows from the old table (Wireshark labs, GNS3 lab, Hack The Box, OSINT training) didn't have real repos behind them yet — I've left them out for now rather than link to placeholders. Send me the actual repo/write-up links (or say the word) and I'll slot them back in.
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Network
+**Network**
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+<img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-### Endpoint
+**Endpoint**
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
-### SIEM
+**SIEM**
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ## Certifications
 
-### Certifications I have - 
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+**✅ Completed**
 <div>
 <img src="https://img.shields.io/badge/Certified_Ethical_Hacker_(CEH)-5A5A5A?&style=for-the-badge&logo=hackerrank&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -63,52 +64,38 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/MikroTik_MTCRE-0061F2?&style=for-the-badge&logo=mikrotik&logoColor=white" />
 </div>
 
+**🔄 In Progress**
+<div>
+<img src="https://img.shields.io/badge/Certified_Ethical_Hacker_Mastery_(CEH)-5A5A5A?&style=for-the-badge&logo=hackerrank&logoColor=white" />
+<img src="https://img.shields.io/badge/TryHackMe-SAL1-5A5A5A?&style=for-the-badge&logo=TryHackMe&logoColor=red" />
+<img src="https://img.shields.io/badge/Wireshark_WCA-5A5A5A?&style=for-the-badge&logo=Wireshark&logoColor=blue" />
+</div>
 
-### Other Certifications I have - 
+**🎯 Committed To**
+<div>
+<img src="https://img.shields.io/badge/CompTIA_PenTest%2B-009CDE?&style=for-the-badge&logo=comptia&logoColor=white" />
+<img src="https://img.shields.io/badge/CompTIA_CySA%2B-009CDE?&style=for-the-badge&logo=comptia&logoColor=white" />
+</div>
 
+<details>
+<summary><b>Other Certifications</b> (field/telecoms background — click to expand)</summary>
+<br>
 <div>
 <img src="https://img.shields.io/badge/IPAF_1b-004B87?&style=for-the-badge&logo=graduation-cap&logoColor=white" />
-<img src="https://img.shields.io/badge/IPAF_3b-004B87?&style=for-the-badge&logo=graduation-cap&logoColor=white" /> 
+<img src="https://img.shields.io/badge/IPAF_3b-004B87?&style=for-the-badge&logo=graduation-cap&logoColor=white" />
 <img src="https://img.shields.io/badge/TTS1U_MATS_Rooftop_Worker_Safety_and_Access-FF6600?&style=for-the-badge&logo=people&logoColor=white" />
-<img src="https://img.shields.io/badge/TSK4U_RF_Hazards-FF0000?&style=for-the-badge&logo=radio&logoColor=white" /> 
-<img src="https://img.shields.io/badge/TTS2UR_MATS_Tower_Climbing_and_Rescue-FF4500?&style=for-the-badge&logo=mountain&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Qualsafe_Level_3_Award_in_Emergency_First_Aid_at_Work_(RQF)-32CD32?&style=for-the-badge&logo=first-aid&logoColor=white" /> 
-<img src="https://img.shields.io/badge/NRSWA_O1_Signing_Lighting_Guarding-FFD700?&style=for-the-badge&logo=traffic-light&logoColor=white" /> 
-<img src="https://img.shields.io/badge/S7_PIA_Sub_Duct_and_Cable_Installation_Underground-2E8B57?&style=for-the-badge&logo=build&logoColor=white"  /> 
-<img src="https://img.shields.io/badge/SA002_Underground_Safety-00008B?&style=for-the-badge&logo=helmet-safety&logoColor=white" /> 
-
+<img src="https://img.shields.io/badge/TSK4U_RF_Hazards-FF0000?&style=for-the-badge&logo=radio&logoColor=white" />
+<img src="https://img.shields.io/badge/TTS2UR_MATS_Tower_Climbing_and_Rescue-FF4500?&style=for-the-badge&logo=mountain&logoColor=white" />
+<img src="https://img.shields.io/badge/Qualsafe_Level_3_Award_in_Emergency_First_Aid_at_Work_(RQF)-32CD32?&style=for-the-badge&logo=first-aid&logoColor=white" />
+<img src="https://img.shields.io/badge/NRSWA_O1_Signing_Lighting_Guarding-FFD700?&style=for-the-badge&logo=traffic-light&logoColor=white" />
+<img src="https://img.shields.io/badge/S7_PIA_Sub_Duct_and_Cable_Installation_Underground-2E8B57?&style=for-the-badge&logo=build&logoColor=white" />
+<img src="https://img.shields.io/badge/SA002_Underground_Safety-00008B?&style=for-the-badge&logo=helmet-safety&logoColor=white" />
 <img src="https://img.shields.io/badge/ENHANCED_DBS-1E90FF?&style=for-the-badge&logo=shield&logoColor=white" />
 </div>
-
-
-### Certifications that are in progress  - 
-
-<div>
- <img src="https://img.shields.io/badge/Certified_Ethical_Hacker_Mastery(CEH)-5A5A5A?&style=for-the-badge&logo=hackerrank&logoColor=white" />
- <img src="https://img.shields.io/badge/TryHackMe-SAL1-5A5A5A?&style=for-the-badge&logo=TryHackMe&logoColor=red" />
- <img src="https://img.shields.io/badge/Wireshark_WCA-5A5A5A?&style=for-the-badge&logo=Wireshark&logoColor=blue" />
-
-</div>
-
-### Certifications that are commited to do  - 
-
-<div>
-
- <img src="https://img.shields.io/badge/CompTIA_PenTest%2B-009CDE?&style=for-the-badge&logo=comptia&logoColor=white" />
- <img src="https://img.shields.io/badge/CompTIA_CySA%2B-009CDE?&style=for-the-badge&logo=comptia&logoColor=white" />
- 
-</div>
-
-### Other learning  - 
-
-
-<div>
-
- <img src="https://img.shields.io/badge/Try_Hack_Me-009CDE?&style=for-the-badge&logo=tryhackme&logoColor=white" alt="Try Hack Me Badge" />
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/MIchaelNolan.png" alt="Your Image Badge" />
-</div>
+</details>
 
 ## Projects
-- <a href="https://github.com/MichaelNolan80/Getting-Started/tree/main">How to become a master hacker book</a>
-- SOC Automation Project
+- 🏠 **Home Network Security Project** — *coming soon*
+- 📘 [Getting Started Becoming a Master Hacker (notes)](https://github.com/MichaelNolan80/Getting-Started)
+- 🔧 [Basic Network Setup (RADIUS server)](https://github.com/MichaelNolan80/BasicNetworkSetup)
+- 🤖 SOC Automation Project *(link needed — is this repo live yet?)*
