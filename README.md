@@ -1,59 +1,59 @@
 <h1 align="center">Hi, I'm Michael 👋</h1>
-<p align="center">Network Engineer transitioning into Cybersecurity | Aiming for a Purple Team role</p>
-
+<p align="center">Network Engineer transitioning into Cybersecurity | Aiming for SOC Tier 1 Analyst</p>
 <p align="center">
 <a href="https://www.linkedin.com/in/michael-john-nolan-"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-
 <p align="center">
-<a href="https://tryhackme.com/p/MIchaelNolan"><img src="https://tryhackme-badges.s3.amazonaws.com/MIchaelNolan.png" alt="TryHackMe Badge" /></a>
+<a href="https://tryhackme.com/p/MIchaelNolan"><img src="https://raw.githubusercontent.com/MichaelNolan80/MichaelNolan80/main/assets/tryhackme-badge.png" alt="TryHackMe Badge" /></a>
 </p>
 
----
-
-## About Me
+About Me
 
 I'm an Assistant Network Engineer specialising in hardware configuration for cabinet deployment, with hands-on experience building networks from scratch (RADIUS server setup, segmentation, traffic monitoring). That networking foundation has pulled me toward cybersecurity — I'm now building detection and analysis skills with Wireshark, Suricata, Zeek, and Sentinel/Splunk, working toward a Security Operations Center (SOC) Tier 1 Analyst role.
 
 Currently documenting a full home network security build — segmentation, monitoring, and detection — as my next hands-on project.
 
-## 🔭 Currently Building
-- **[Home Network Security Project](#)** — designing and documenting a segmented home lab with traffic monitoring and detection. *(Coming soon)*
+🔭 Currently Building
 
-## Skills & Projects
 
-| Skill | Project |
-|---|---|
-| Building a network from scratch, incl. RADIUS server setup | [Network Setup](https://github.com/MichaelNolan80/BasicNetworkSetup) |
-| Intro to ethical hacking fundamentals | [Getting Started Becoming a Master Hacker (notes)](https://github.com/MichaelNolan80/Getting-Started) |
+Home Network Security Project — designing and documenting a segmented home lab with traffic monitoring and detection. (Coming soon)
 
-> A few rows from the old table (Wireshark labs, GNS3 lab, Hack The Box, OSINT training) didn't have real repos behind them yet — I've left them out for now rather than link to placeholders. Send me the actual repo/write-up links (or say the word) and I'll slot them back in.
 
-## Tools
+Skills & Projects
 
-**Network**
+SkillProjectBuilding a network from scratch, incl. RADIUS server setupNetwork SetupIntro to ethical hacking fundamentalsGetting Started Becoming a Master Hacker (notes)
+
+
+A few rows from the old table (Wireshark labs, GNS3 lab, Hack The Box, OSINT training) didn't have real repos behind them yet — I've left them out for now rather than link to placeholders. Send me the actual repo/write-up links (or say the word) and I'll slot them back in.
+
+
+
+Tools
+
+Network
+
 <div>
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
 <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
+Endpoint
 
-**Endpoint**
 <div>
 <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
+SIEM
 
-**SIEM**
 <div>
 <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
+Certifications
 
-## Certifications
+✅ Completed
 
-**✅ Completed**
 <div>
 <img src="https://img.shields.io/badge/Certified_Ethical_Hacker_(CEH)-5A5A5A?&style=for-the-badge&logo=hackerrank&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -63,20 +63,19 @@ Currently documenting a full home network security build — segmentation, monit
 <img src="https://img.shields.io/badge/MikroTik_MTCNA-0061F2?&style=for-the-badge&logo=mikrotik&logoColor=white" />
 <img src="https://img.shields.io/badge/MikroTik_MTCRE-0061F2?&style=for-the-badge&logo=mikrotik&logoColor=white" />
 </div>
+🔄 In Progress
 
-**🔄 In Progress**
 <div>
 <img src="https://img.shields.io/badge/Certified_Ethical_Hacker_Mastery_(CEH)-5A5A5A?&style=for-the-badge&logo=hackerrank&logoColor=white" />
 <img src="https://img.shields.io/badge/TryHackMe-SAL1-5A5A5A?&style=for-the-badge&logo=TryHackMe&logoColor=red" />
 <img src="https://img.shields.io/badge/Wireshark_WCA-5A5A5A?&style=for-the-badge&logo=Wireshark&logoColor=blue" />
 </div>
+🎯 Committed To
 
-**🎯 Committed To**
 <div>
 <img src="https://img.shields.io/badge/CompTIA_PenTest%2B-009CDE?&style=for-the-badge&logo=comptia&logoColor=white" />
 <img src="https://img.shields.io/badge/CompTIA_CySA%2B-009CDE?&style=for-the-badge&logo=comptia&logoColor=white" />
 </div>
-
 <details>
 <summary><b>Other Certifications</b> (field/telecoms background — click to expand)</summary>
 <br>
@@ -93,9 +92,10 @@ Currently documenting a full home network security build — segmentation, monit
 <img src="https://img.shields.io/badge/ENHANCED_DBS-1E90FF?&style=for-the-badge&logo=shield&logoColor=white" />
 </div>
 </details>
+Projects
 
-## Projects
-- 🏠 **Home Network Security Project** — *coming soon*
-- 📘 [Getting Started Becoming a Master Hacker (notes)](https://github.com/MichaelNolan80/Getting-Started)
-- 🔧 [Basic Network Setup (RADIUS server)](https://github.com/MichaelNolan80/BasicNetworkSetup)
-- 🤖 SOC Automation Project *(link needed — is this repo live yet?)*
+
+🏠 Home Network Security Project — coming soon
+📘 Getting Started Becoming a Master Hacker (notes)
+🔧 Basic Network Setup (RADIUS server)
+🤖 SOC Automation Project (link needed — is this repo live yet?)
