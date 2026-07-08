@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "thm-stats": "node scripts/tryhackme-states.js"
+    "thm-stats": "node scripts/tryhackme-stats.js"
   },
   "dependencies": {
     "playwright": "^1.54.0",
