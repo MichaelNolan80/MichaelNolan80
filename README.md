@@ -8,6 +8,12 @@
 
 ![TryHackMe Stats](assets/tryhackme-stats.png)
 
+## TryHackMe Progress
+
+![TryHackMe Stats](assets/tryhackme-stats.png)
+
+[View my TryHackMe profile](https://tryhackme.com/p/ManicMookey)
+
 About Me
 
 I'm an Assistant Network Engineer specialising in hardware configuration for cabinet deployment, with hands-on experience building networks from scratch (RADIUS server setup, segmentation, traffic monitoring). That networking foundation has pulled me toward cybersecurity — I'm now building detection and analysis skills with Wireshark, Suricata, Zeek, and Sentinel/Splunk, working toward a Security Operations Center (SOC) Tier 1 Analyst role.
