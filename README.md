@@ -3,9 +3,10 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/michael-john-nolan-"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-<p align="center">
-<a href="https://tryhackme.com/p/MIchaelNolan"><img src="https://raw.githubusercontent.com/MichaelNolan80/MichaelNolan80/main/assets/tryhackme-badge.png" alt="TryHackMe Badge" /></a>
-</p>
+
+## TryHackMe Progress
+
+![TryHackMe Badge](./assets/tryhackme-badge.png)
 
 About Me
 
