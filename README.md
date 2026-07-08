@@ -6,7 +6,7 @@
 
 ## TryHackMe Progress
 
-![TryHackMe Badge](./assets/tryhackme-badge.png)
+![TryHackMe Stats](assets/tryhackme-stats.png)
 
 About Me
 
