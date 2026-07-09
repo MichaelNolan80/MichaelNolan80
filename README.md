@@ -8,10 +8,6 @@
 
 ![TryHackMe Stats](assets/tryhackme-stats.png)
 
-## TryHackMe Progress
-
-![TryHackMe Stats](assets/tryhackme-stats.png)
-
 [View my TryHackMe profile](https://tryhackme.com/p/ManicMookey)
 
 About Me
