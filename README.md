@@ -4,11 +4,6 @@
 <a href="https://www.linkedin.com/in/michael-john-nolan-"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-## TryHackMe Progress
-
-![TryHackMe Stats](assets/tryhackme-stats.png)
-
-[View my TryHackMe profile](https://tryhackme.com/p/ManicMookey)
 
 About Me
 
