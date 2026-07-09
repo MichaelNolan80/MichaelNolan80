@@ -1,0 +1,39 @@
+name: Update TryHackMe Screenshot
+
+on:
+  schedule:
+    - cron: "0 7 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  screenshot:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Python packages
+        run: |
+          pip install playwright pillow
+          python -m playwright install --with-deps chromium
+
+      - name: Take TryHackMe screenshot
+        run: |
+          python scripts/screenshot_profile.py
+
+      - name: Commit updated screenshot
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add images/tryhackme-profile.png
+          git diff --cached --quiet || git commit -m "Update TryHackMe screenshot"
+          git push
