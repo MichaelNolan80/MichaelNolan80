@@ -1,37 +1,41 @@
 <h1 align="center">Hi, I'm Michael 👋</h1>
 <p align="center">Network Engineer transitioning into Cybersecurity | Aiming for Purple Teaming</p>
-
 <p align="center">
 <a href="https://www.linkedin.com/in/michael-john-nolan-"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-
 ---
-
+ 
 ## About Me
-
+ 
 I'm an Assistant Network Engineer specialising in hardware configuration for cabinet deployment, with hands-on experience building networks from scratch (RADIUS server setup, segmentation, traffic monitoring). That networking foundation has pulled me toward cybersecurity — I'm now building detection and analysis skills with Wireshark, Suricata, Zeek, and Sentinel/Splunk, working toward purple teaming: understanding both the attacker's playbook and the defender's response.
-
-Currently documenting a full home network security build — segmentation, monitoring, and detection — as my next hands-on project.
-
+ 
+What drives me is curiosity — I like taking on things I haven't done before and figuring out how they work under pressure. Right now that's a segmented home network build, a penetration testing tool from scratch, and automating pieces of my own workflow (like the TryHackMe stats pipeline behind this profile). If it stretches what I know, I'm probably already trying it.
+ 
+🔭 **Currently building:** a full home network security setup (segmentation, monitoring, and detection), and an automated network penetration testing tool called **"Without-Keys."**
+ 
 ## Skills & Tools
-
+ 
 Grouped by domain rather than by certificate — this is what I can actually do.
-
+ 
 **🌐 Networking**
-
+ 
 OSI & TCP/IP model, ports & protocols, structured troubleshooting methodology, routing & switching (VLANs, OSPF, BGP basics), RouterOS configuration (firewall rules, NAT/DHCP, wireless setup, QoS), advanced/dynamic routing (OSPF), VPN tunnels, policy routing
-
+ 
 **🗡️ Cyber Attack (Red Team)**
-
+ 
 Reconnaissance, footprinting, vulnerability scanning (Nmap), exploitation (Metasploit), web app attacks (SQLi, XSS, Burp Suite), wireless attacks & social engineering, applied penetration testing, privilege escalation, steganography
-
+ 
 **🛡️ Cyber Defender (Blue Team)**
-
-Risk management, GRC, incident response (NIST lifecycle), IAM & access control, cryptography, zero trust architecture, SIEM tooling, Python for security automation, SQL, Linux command line, legal & ethical frameworks (Computer Misuse Act, GDPR), threat terminology, SOC alert triage, log analysis, Windows/Linux event logs, Active Directory basics, packet capture strategy, display/capture filters, TCP stream analysis
-
+ 
+Incident response (NIST lifecycle), IAM & access control, cryptography, zero trust architecture, SIEM tooling, Python for security automation, SQL, Linux command line, threat terminology, SOC alert triage, log analysis, Windows/Linux event logs, Active Directory basics, packet capture strategy, display/capture filters, TCP stream analysis
+ 
+**📋 Governance & Compliance**
+ 
+Risk management, GRC, legal & ethical frameworks (Computer Misuse Act, GDPR)
+ 
 ## Certifications
 <sub>To see the learning objective, right click on the Quilification and choose 'Open in a new tab'</sub>
-
+ 
 **✅ Completed**
 <div>
 <a href="https://www.eccouncil.org/cybersecurity-exchange/ethical-hacking/ceh-learning-framework/"><img src="https://img.shields.io/badge/Certified_Ethical_Hacker_(CEH)-5A5A5A?&style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
@@ -42,20 +46,17 @@ Risk management, GRC, incident response (NIST lifecycle), IAM & access control, 
 <a href="https://i.mt.lv/cdn/training_pdf/mtcna_outline_2019181161836.pdf"><img src="https://img.shields.io/badge/MikroTik_MTCNA-0061F2?&style=for-the-badge&logo=mikrotik&logoColor=white" /></a>
 <a href="https://i.mt.lv/cdn/training_pdf/mtcre_outline_2019181161836.pdf"><img src="https://img.shields.io/badge/MikroTik_MTCRE-0061F2?&style=for-the-badge&logo=mikrotik&logoColor=white" /></a>
 </div>
-
 **🔄 In Progress**
 <div>
 <a href="https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh-practical/"><img src="https://img.shields.io/badge/Certified_Ethical_Hacker_Mastery_(CEH)-5A5A5A?&style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 <a href="https://tryhackme.com/certification/security-analyst-level-1"><img src="https://img.shields.io/badge/TryHackMe-SAL1-5A5A5A?&style=for-the-badge&logo=TryHackMe&logoColor=red" /></a>
 <a href="https://www.wireshark.org/certifications/"><img src="https://img.shields.io/badge/Wireshark_WCA-5A5A5A?&style=for-the-badge&logo=Wireshark&logoColor=blue" /></a>
 </div>
-
 **🎯 Course Work Ready to Undertake**
 <div>
 <a href="https://www.comptia.org/en-us/certifications/pentest/"><img src="https://img.shields.io/badge/CompTIA_PenTest%2B-009CDE?&style=for-the-badge&logo=comptia&logoColor=white" /></a>
 <a href="https://www.comptia.org/en-us/certifications/cybersecurity-analyst/"><img src="https://img.shields.io/badge/CompTIA_CySA%2B-009CDE?&style=for-the-badge&logo=comptia&logoColor=white" /></a>
 </div>
-
 <details>
 <summary><b>Other Certifications</b> (field/telecoms background — click to expand)</summary>
 <br>
@@ -72,18 +73,17 @@ Risk management, GRC, incident response (NIST lifecycle), IAM & access control, 
 <img src="https://img.shields.io/badge/ENHANCED_DBS-1E90FF?&style=for-the-badge&logo=shield&logoColor=white" />
 </div>
 </details>
-
 ## TryHackMe Progress
-
+ 
 ![TryHackMe Profile](images/tryhackme-profile-cropped.png)
-
+ 
 [View my TryHackMe profile](https://tryhackme.com/p/ManicMookey)
-
+ 
 ## Skills & Projects
-
+ 
 | Project | Skill |
 |---|---|
 | 🏠 Home Network Security Project *(Coming soon)* | Network / SOC / Penetration |
-| 📘 [Getting Started Becoming a Master Hacker (notes)](https://github.com/MichaelNolan80/Getting-Started) | Intro to ethical hacking fundamentals |
 | 🔧 Penetration Tool Creation – Without Keys *(Coming soon)* | Custom tool development for penetration testing |
 | 🤖 [Getting Your TryHackMe Stats on GitHub ](https://github.com/MichaelNolan80/TryHackMe_stats_to_Github) | GitHub Actions automation, API integration |
+<!-- | 📘 [Getting Started Becoming a Master Hacker (notes)](https://github.com/MichaelNolan80/Getting-Started) | Intro to ethical hacking fundamentals | -->
