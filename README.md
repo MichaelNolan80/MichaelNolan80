@@ -31,9 +31,11 @@ Risk management, GRC, incident response (NIST lifecycle), IAM & access control, 
 
 ## Certifications
 
+<sub>Click on the qualifications to open the objectives (will open in this tab)</sub>
+
 **✅ Completed**
 <div>
-<a href="https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/"><img src="https://img.shields.io/badge/Certified_Ethical_Hacker_(CEH)-5A5A5A?&style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+<a href="[https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh](https://www.eccouncil.org/cybersecurity-exchange/ethical-hacking/ceh-learning-framework/)/"><img src="https://img.shields.io/badge/Certified_Ethical_Hacker_(CEH)-5A5A5A?&style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 <a href="https://www.comptia.org/en-us/certifications/security/"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 <a href="https://www.comptia.org/en-us/certifications/network/"><img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 <a href="https://www.ncfe.org.uk/qualification-search/qualification-detail/ncfe-level-2-certificate-in-the-principles-of-cyber-security-1410"><img src="https://img.shields.io/badge/NCFE_Level_2_Principles_of_Cyber_Security-005F6A?&style=for-the-badge&logo=graduation-cap&logoColor=white" /></a>
