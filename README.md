@@ -46,17 +46,23 @@ Risk management, GRC, legal & ethical frameworks (Computer Misuse Act, GDPR)
 <a href="https://i.mt.lv/cdn/training_pdf/mtcna_outline_2019181161836.pdf"><img src="https://img.shields.io/badge/MikroTik_MTCNA-0061F2?&style=for-the-badge&logo=mikrotik&logoColor=white" /></a>
 <a href="https://i.mt.lv/cdn/training_pdf/mtcre_outline_2019181161836.pdf"><img src="https://img.shields.io/badge/MikroTik_MTCRE-0061F2?&style=for-the-badge&logo=mikrotik&logoColor=white" /></a>
 </div>
+
+
 **🔄 In Progress**
+
 <div>
 <a href="https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh-practical/"><img src="https://img.shields.io/badge/Certified_Ethical_Hacker_Mastery_(CEH)-5A5A5A?&style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 <a href="https://tryhackme.com/certification/security-analyst-level-1"><img src="https://img.shields.io/badge/TryHackMe-SAL1-5A5A5A?&style=for-the-badge&logo=TryHackMe&logoColor=red" /></a>
 <a href="https://www.wireshark.org/certifications/"><img src="https://img.shields.io/badge/Wireshark_WCA-5A5A5A?&style=for-the-badge&logo=Wireshark&logoColor=blue" /></a>
 </div>
+
 **🎯 Course Work Ready to Undertake**
+
 <div>
 <a href="https://www.comptia.org/en-us/certifications/pentest/"><img src="https://img.shields.io/badge/CompTIA_PenTest%2B-009CDE?&style=for-the-badge&logo=comptia&logoColor=white" /></a>
 <a href="https://www.comptia.org/en-us/certifications/cybersecurity-analyst/"><img src="https://img.shields.io/badge/CompTIA_CySA%2B-009CDE?&style=for-the-badge&logo=comptia&logoColor=white" /></a>
 </div>
+
 <details>
 <summary><b>Other Certifications</b> (field/telecoms background — click to expand)</summary>
 <br>
@@ -73,6 +79,7 @@ Risk management, GRC, legal & ethical frameworks (Computer Misuse Act, GDPR)
 <img src="https://img.shields.io/badge/ENHANCED_DBS-1E90FF?&style=for-the-badge&logo=shield&logoColor=white" />
 </div>
 </details>
+
 ## TryHackMe Progress
  
 ![TryHackMe Profile](images/tryhackme-profile-cropped.png)
