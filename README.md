@@ -86,4 +86,4 @@ Risk management, GRC, incident response (NIST lifecycle), IAM & access control, 
 | 🏠 Home Network Security Project *(Coming soon)* | Network / SOC / Penetration |
 | 📘 [Getting Started Becoming a Master Hacker (notes)](https://github.com/MichaelNolan80/Getting-Started) | Intro to ethical hacking fundamentals |
 | 🔧 Penetration Tool Creation – Without Keys *(Coming soon)* | Custom tool development for penetration testing |
-| 🤖 Getting Your TryHackMe Stats on GitHub | GitHub Actions automation, API integration |
+| 🤖 [Getting Your TryHackMe Stats on GitHub ](https://github.com/MichaelNolan80/TryHackMe_stats_to_Github) | GitHub Actions automation, API integration |
