@@ -24,13 +24,6 @@ SkillProjectBuilding a network from scratch, incl. RADIUS server setupNetwork Se
 
 A few rows from the old table (Wireshark labs, GNS3 lab, Hack The Box, OSINT training) didn't have real repos behind them yet — I've left them out for now rather than link to placeholders. Send me the actual repo/write-up links (or say the word) and I'll slot them back in.
 
-
-## TryHackMe Progress
-
-![TryHackMe Profile](images/tryhackme-profile-cropped.png)
-
-[View my TryHackMe profile](https://tryhackme.com/p/ManicMookey)
-
 Certifications
 
 ✅ Completed
