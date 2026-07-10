@@ -31,7 +31,7 @@ Risk management, GRC, incident response (NIST lifecycle), IAM & access control, 
 
 ## Certifications
 
-<sub>Click on the qualifications to open the objectives (will open in this tab)</sub>
+<sub>To see the learning objective, right click on the Quilification and choose 'Open in a new tab'</sub>
 
 **✅ Completed**
 <div>
