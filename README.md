@@ -40,8 +40,8 @@ Risk management, GRC, incident response (NIST lifecycle), IAM & access control, 
 <a href="https://www.comptia.org/en-us/certifications/network/"><img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 <a href="https://www.ncfe.org.uk/qualification-search/qualification-detail/ncfe-level-2-certificate-in-the-principles-of-cyber-security-1410"><img src="https://img.shields.io/badge/NCFE_Level_2_Principles_of_Cyber_Security-005F6A?&style=for-the-badge&logo=graduation-cap&logoColor=white" /></a>
 <a href="https://www.coursera.org/professional-certificates/google-cybersecurity"><img src="https://img.shields.io/badge/Google_Cybersecurity-4285F4?&style=for-the-badge&logo=google&logoColor=white" /></a>
-<a href="https://mikrotik.com/training/about"><img src="https://img.shields.io/badge/MikroTik_MTCNA-0061F2?&style=for-the-badge&logo=mikrotik&logoColor=white" /></a>
-<a href="https://mikrotik.com/training/about"><img src="https://img.shields.io/badge/MikroTik_MTCRE-0061F2?&style=for-the-badge&logo=mikrotik&logoColor=white" /></a>
+<a href="https://i.mt.lv/cdn/training_pdf/mtcna_outline_2019181161836.pdf"><img src="https://img.shields.io/badge/MikroTik_MTCNA-0061F2?&style=for-the-badge&logo=mikrotik&logoColor=white" /></a>
+<a href="https://i.mt.lv/cdn/training_pdf/mtcre_outline_2019181161836.pdf"><img src="https://img.shields.io/badge/MikroTik_MTCRE-0061F2?&style=for-the-badge&logo=mikrotik&logoColor=white" /></a>
 </div>
 
 **🔄 In Progress**
