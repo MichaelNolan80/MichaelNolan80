@@ -30,7 +30,6 @@ Reconnaissance, footprinting, vulnerability scanning (Nmap), exploitation (Metas
 Risk management, GRC, incident response (NIST lifecycle), IAM & access control, cryptography, zero trust architecture, SIEM tooling, Python for security automation, SQL, Linux command line, legal & ethical frameworks (Computer Misuse Act, GDPR), threat terminology, SOC alert triage, log analysis, Windows/Linux event logs, Active Directory basics, packet capture strategy, display/capture filters, TCP stream analysis
 
 ## Certifications
-
 <sub>To see the learning objective, right click on the Quilification and choose 'Open in a new tab'</sub>
 
 **✅ Completed**
