@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Michael 👋</h1>
-<p align="center">Network Engineer transitioning into Cybersecurity | Aiming for SOC Tier 1 Analyst</p>
+<p align="center">Network Engineer transitioning into Cybersecurity | Aiming for Purple teaming</p>
 <p align="center">
 <a href="https://www.linkedin.com/in/michael-john-nolan-"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
