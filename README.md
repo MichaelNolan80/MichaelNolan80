@@ -90,7 +90,7 @@ Risk management, GRC, legal & ethical frameworks (Computer Misuse Act, GDPR)
  
 | Project | Skill |
 |---|---|
-| 🏠 Home Network Security Project *(Coming soon)* | Network / SOC / Penetration |
 | 🔧 [Penetration Tool Creation – Without Keys ](https://github.com/MichaelNolan80/Network-Scanning-Tool) | Custom tool development for penetration testing |
 | 🤖 [Getting Your TryHackMe Stats on GitHub ](https://github.com/MichaelNolan80/TryHackMe_stats_to_Github) | GitHub Actions automation, API integration |
+| 🏠 Home Network Security Project *(Coming soon)* | Network / SOC / Penetration |
 <!-- | 📘 [Getting Started Becoming a Master Hacker (notes)](https://github.com/MichaelNolan80/Getting-Started) | Intro to ethical hacking fundamentals | -->
